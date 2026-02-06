@@ -148,8 +148,7 @@
        
         <h1 style="font-size:3rem; background:white; padding:30px; border-radius:20px;">
           YAYYY 💖🥰<br><br>
-          MY KIDDO TEST 123 🎀
-!!! 🎀<br>
+          My Kiddoo!!!🎀<br>
           You’re my Valentineee!!! 💝💕
         </h1>
       </div>
