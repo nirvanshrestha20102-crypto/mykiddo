@@ -143,11 +143,11 @@
        
         <h1 style="font-size:3rem; background:white; padding:30px; border-radius:20px;">
           YAYYY 💖🥰<br><br>
-          My Kiddoo, you’re my Valentineee 💕
+          My Kiddoo!!!🎀, You’re my Valentineee!!!💝💕
         </h1>
 
         <div style="font-size:5rem; margin-top:20px;">
-          🧸❤️
+          🎀💗
         </div>
       </div>
     `;
